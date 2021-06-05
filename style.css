@@ -23,3 +23,15 @@ iframe{
   border-radius: 2rem;
   
 }
+
+p{
+  font-family: 'Bebas Neue', cursive;
+  color: whitesmoke;
+  align-self: center;
+  background-color: slategrey;
+  border-color: slategrey;
+  text-align: center;
+  display: inline-block;
+  border-radius: 2rem;
+  
+}
