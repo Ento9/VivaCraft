@@ -75,3 +75,26 @@ img {
   border: none;
   
 }
+
+.trois {
+  
+    color: whitesmoke;
+  font-family: 'Sigmar One', cursive;
+   border: none;
+  text-align: center;
+  display: inline-block;
+  border-radius: 2rem;
+  background-color: khaki;
+  
+}
+
+.iframe3 {
+  
+    align-self: center;
+  background-color: slategrey;
+  border-color: slategrey;
+  text-align: center;
+  display: inline-block;
+  border-radius: 2rem;
+  
+}
