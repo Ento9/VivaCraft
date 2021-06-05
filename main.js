@@ -1,1 +1,1 @@
-alert('Vous êtes bien dans VivaCraft jeu créer sur scratch');
+alert('Vous êtes sur SSStudioGame les jeux ici son créer sur scratch par ssstudio');
