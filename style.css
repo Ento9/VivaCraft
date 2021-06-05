@@ -3,8 +3,10 @@ body {
     background-color: black;
 }
 
-h1
-{
+ 
+  
+
+.premier {
   color: whitesmoke;
   font-family: 'Sigmar One', cursive;
    border: none;
@@ -14,7 +16,7 @@ h1
   background-color: green;
 }
 
-iframe{
+.iframe1{
   align-self: center;
   background-color: slategrey;
   border-color: slategrey;
@@ -33,5 +35,43 @@ p{
   text-align: center;
   display: inline-block;
   border-radius: 2rem;
+  
+}
+
+.deux {
+  color: whitesmoke;
+  font-family: 'Sigmar One', cursive;
+   border: none;
+  text-align: center;
+  display: inline-block;
+  border-radius: 2rem;
+  background-color: darkred;
+}
+
+.iframe2{
+  align-self: center;
+  background-color: slategrey;
+  border-color: slategrey;
+  text-align: center;
+  display: inline-block;
+  border-radius: 2rem;
+}
+
+.studio {
+  
+   color: whitesmoke;
+   font-family: 'Bebas Neue', cursive;
+   border: none;
+   text-align: center;
+   display: inline-block;
+   border-radius: 2rem;
+   background-color: dodgerblue;
+  
+}
+
+img {
+  
+  border-radius: 2rem;
+  border: none;
   
 }
