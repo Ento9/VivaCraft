@@ -1,0 +1,25 @@
+body {
+    font-size: 15pt;
+    background-color: black;
+}
+
+h1
+{
+  color: whitesmoke;
+  font-family: 'Sigmar One', cursive;
+   border: none;
+  text-align: center;
+  display: inline-block;
+  border-radius: 2rem;
+  background-color: green;
+}
+
+iframe{
+  align-self: center;
+  background-color: slategrey;
+  border-color: slategrey;
+  text-align: center;
+  display: inline-block;
+  border-radius: 2rem;
+  
+}
