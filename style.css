@@ -105,3 +105,9 @@ div {
   width: 100%;
   display: center;
 }
+
+.header1 {
+  background-color: #22488C;
+  padding: 50px;
+  margin: 20px auto;
+}
