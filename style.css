@@ -99,6 +99,29 @@ img {
   
 }
 
+.iframe4 {
+  
+    align-self: center;
+  background-color: slategrey;
+  border-color: slategrey;
+  text-align: center;
+  display: center;
+  border-radius: 2rem;
+  
+}
+
+.quatre {
+  
+    color: whitesmoke;
+  font-family: 'Sigmar One', cursive;
+   border: none;
+  text-align: center;
+  display: center;
+  border-radius: 2rem;
+  background-color: lightgrey;
+  
+}
+
 div {
   margin: 20px auto;
   padding: 15px;
